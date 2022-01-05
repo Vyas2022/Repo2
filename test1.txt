@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 90D5-E4C3
+
+ Directory of C:\Users\PRAVEEN\Desktop\MyProjects
+
+05-01-2022  12:30    <DIR>          .
+05-01-2022  12:29    <DIR>          ..
+05-01-2022  12:30                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,870,994,432 bytes free
